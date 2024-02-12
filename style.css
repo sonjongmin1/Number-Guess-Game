@@ -1,0 +1,26 @@
+.blue{
+    color:blue;
+    background-color: yellow;
+    text-align: center;
+}
+
+.text-edit{
+    text-align: center;
+}
+
+.input-eidt{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.border-blue{
+    border: 1px solid blue;
+}
+
+.img-size{
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+}
